@@ -11,5 +11,5 @@ y la posición de cada objeto de la escena.
 
 Este es el gif de la ejecución:
 
-![Demo](Practica1/Animation1.gif)
+![Demo](Animation1.gif)
 
