@@ -11,4 +11,4 @@ y la posición de cada objeto de la escena.
 
 Este es el gif de la ejecución:
 
-![Demo de ejecución](https://drive.google.com/uc?export=download&id=1Mll63KpA4zuAEeEvURFXXKMWqIqUZSxt)
+![Demo de ejecución](https://imgur.com/a/T7TEghA)
