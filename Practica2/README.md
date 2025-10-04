@@ -45,5 +45,23 @@ de que se pulse izquierda o derecha).
 
 
 
+Séptimo y Octavo Ejercicio: para el séptimo, hemos añadido que la tecla H sea para disparar
+e implementamos un Script que imprime por consola un mensaje cada vez que se pulse la H.
+Leugo para el octavo ejercicio, en los tres primeros apartados, observamos como variando
+únicamente la velocidad o el vector de movimiento, podemos acelerar o frenar al cubo.
 
+![Demo del proyecto](Octavo%20Ejercicio/Eighth%20Exercise.gif)
+
+
+Para el cuarto apartado, si solo tocamos la posición inicial del cubo, el objeto se
+seguirá moviendo según el vector de movimiento, para que se moviese en el eje y también,
+se debería de modificar el vector de movimiento.
+
+![Demo del proyecto](Octavo%20Ejercicio/Eighth2%20Exercise.gif)
+
+
+Y para el último apartado, al cambiar el sistema de referencia a local, vemos como el 
+objeto (el cubo) sigue el vector dirección pero usando sus coordenadas, no las de la escena.
+
+![Demo del proyecto](Octavo%20Ejercicio/Eighth3%20Exercise.gif)
 
