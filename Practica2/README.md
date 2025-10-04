@@ -32,3 +32,18 @@ actualice las posiciones de los objetos según el vector desplazamiento cuando e
 toque la barra espaciadora.
 
 ![Demo del proyecto](Quinto%20Ejercicio/Fifth%20Exercise.gif)
+
+
+
+
+Sexto Ejercicio: hemos añadido un Script al cubo de la escena, el cual imprime en la consola
+la multiplicación de una varible "velocidad" por el valor del eje vertical (en caso de pulsar
+la tecla arriba o abajo) y el valor de la multiplicación pero con el eje horizontal (en caso
+de que se pulse izquierda o derecha).
+
+![Demo del proyecto](Sexto%20Ejercicio/Sixth%20Exercise.gif)
+
+
+
+
+
