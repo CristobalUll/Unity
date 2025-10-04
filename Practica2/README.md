@@ -46,7 +46,8 @@ de que se pulse izquierda o derecha).
 
 
 Séptimo y Octavo Ejercicio: para el séptimo, hemos añadido que la tecla H sea para disparar
-e implementamos un Script que imprime por consola un mensaje cada vez que se pulse la H.
+e implementamos un Script que imprime por consola un mensaje cada vez que se pulse la H (se 
+puede ver en el gif del último apartado del ejercicio 8).
 Leugo para el octavo ejercicio, en los tres primeros apartados, observamos como variando
 únicamente la velocidad o el vector de movimiento, podemos acelerar o frenar al cubo.
 
