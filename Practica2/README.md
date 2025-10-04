@@ -20,3 +20,7 @@ nos permite modificarlos en el Inspector, mostrando por consola algunas de sus p
 ![Demo del proyecto](Segundo%20Ejercicio/Second%20Exercise.gif)
 
 
+Tercer y Cuarto Ejercicio: hemos añadido dos Scripts, el primero para mostrar la posición de la 
+esfera. Y el otro, se encarga de calcular la distancia de la esfera hacia un cilindro y un cubo.
+
+![Demo del proyecto](3-4%20Ejercicio/Fourth%20Exercise.gif)
