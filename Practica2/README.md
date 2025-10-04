@@ -23,4 +23,4 @@ nos permite modificarlos en el Inspector, mostrando por consola algunas de sus p
 Tercer y Cuarto Ejercicio: hemos añadido dos Scripts, el primero para mostrar la posición de la 
 esfera. Y el otro, se encarga de calcular la distancia de la esfera hacia un cilindro y un cubo.
 
-![Demo del proyecto](3-4%20Ejercicio/Fourth%20Exercise.gif)
+![Demo del proyecto](Cuarto%20Ejercicio/3-4%20Exercise.gif)
