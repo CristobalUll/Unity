@@ -24,3 +24,11 @@ Tercer y Cuarto Ejercicio: hemos añadido dos Scripts, el primero para mostrar l
 esfera. Y el otro, se encarga de calcular la distancia de la esfera hacia un cilindro y un cubo.
 
 ![Demo del proyecto](Cuarto%20Ejercicio/3-4%20Exercise.gif)
+
+
+Quinto Ejercicio: hemos añadido dos Scripts, el primero a todos los obejtos para añadir el vector 
+desplazamiento a cada uno de ellos. Luego, el segundo, al objeto invisible "Marker", para que 
+actualice las posiciones de los objetos según el vector desplazamiento cuando el usuario 
+toque la barra espaciadora.
+
+![Demo del proyecto](Quinto%20Ejercicio/Fifth%20Exercise.gif)
