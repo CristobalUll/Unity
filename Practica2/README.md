@@ -79,7 +79,11 @@ Time.deltaTime y el segundo si).
 
 ---
 
+Undécimo ejercicio: para este ejercicio, hemos cogido los vectores de la esfera 
+y del cubo, luego restamos el vector esfera menos el vector cubo, lo normalizamos
+y le aplicamos al cubo el método Translate con una velocidad 3.
 
+![Demo del proyecto](Undécimo%20Ejercicio/Eleventh%20Exercise.gif)
 
 
 
