@@ -13,18 +13,21 @@ cambie de color una esfera utilizando la clase Random de Unity en su vector de c
 
 ![Demo del proyecto](Primer%20Ejercicio/First%20Exercise.gif)
 
+---
 
 Segundo Ejercicio: hemos añadido un script a la esfera con dos vectore del tipo Vector3, que luego
 nos permite modificarlos en el Inspector, mostrando por consola algunas de sus propiedades.
 
 ![Demo del proyecto](Segundo%20Ejercicio/Second%20Exercise.gif)
 
+---
 
 Tercer y Cuarto Ejercicio: hemos añadido dos Scripts, el primero para mostrar la posición de la 
 esfera. Y el otro, se encarga de calcular la distancia de la esfera hacia un cilindro y un cubo.
 
 ![Demo del proyecto](Cuarto%20Ejercicio/3-4%20Exercise.gif)
 
+---
 
 Quinto Ejercicio: hemos añadido dos Scripts, el primero a todos los obejtos para añadir el vector 
 desplazamiento a cada uno de ellos. Luego, el segundo, al objeto invisible "Marker", para que 
@@ -33,8 +36,7 @@ toque la barra espaciadora.
 
 ![Demo del proyecto](Quinto%20Ejercicio/Fifth%20Exercise.gif)
 
-
-
+---
 
 Sexto Ejercicio: hemos añadido un Script al cubo de la escena, el cual imprime en la consola
 la multiplicación de una varible "velocidad" por el valor del eje vertical (en caso de pulsar
@@ -43,7 +45,7 @@ de que se pulse izquierda o derecha).
 
 ![Demo del proyecto](Sexto%20Ejercicio/Sixth%20Exercise.gif)
 
-
+---
 
 Séptimo y Octavo Ejercicio: para el séptimo, hemos añadido que la tecla H sea para disparar
 e implementamos un Script que imprime por consola un mensaje cada vez que se pulse la H (se 
@@ -66,6 +68,7 @@ objeto (el cubo) sigue el vector dirección pero usando sus coordenadas, no las 
 
 ![Demo del proyecto](Octavo%20Ejercicio/Eighth3%20Exercise.gif)
 
+---
 
 Noveno y Décimo ejercicio: para estos ejercicios, hemos creado un Script con el cual
 detectamos las teclas de movimiento, y aplicamos una velocidad hacia la dirección a la
@@ -73,4 +76,19 @@ que apunta el usuario (estos dos ejercicios están juntos ya que el primero no u
 Time.deltaTime y el segundo si).
 
 ![Demo del proyecto](Décimo%20Ejercicio/Tenth%20Exercise.gif)
+
+---
+
+
+
+
+
+
+
+
+## 📄 Autor
+
+👤 **Cristóbal Jesús Sarmiento Rodríguez**  
+📅 *Octubre 2025*  
+📍 Universidad de La Laguna/ Curso: *Interfaces Inteligentes — Práctica 2 de Unity*
 
