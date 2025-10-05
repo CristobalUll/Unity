@@ -66,3 +66,11 @@ objeto (el cubo) sigue el vector dirección pero usando sus coordenadas, no las 
 
 ![Demo del proyecto](Octavo%20Ejercicio/Eighth3%20Exercise.gif)
 
+
+Noveno y Décimo ejercicio: para estos ejercicios, hemos creado un Script con el cual
+detectamos las teclas de movimiento, y aplicamos una velocidad hacia la dirección a la
+que apunta el usuario (estos dos ejercicios están juntos ya que el primero no usaba
+Time.deltaTime y el segundo si).
+
+![Demo del proyecto](Décimo%20Ejercicio/Ninth%20Exercise.gif)
+
