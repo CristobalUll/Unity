@@ -85,9 +85,15 @@ y le aplicamos al cubo el método Translate con una velocidad 3.
 
 ![Demo del proyecto](Undécimo%20Ejercicio/Eleventh%20Exercise.gif)
 
+---
 
+Duodécimo ejercicio: para este ejercicio, hemos hecho que el cubo siga el movimiento
+de la esfera (que se mueve con las teclas wasd), utilizando el método LookAt del 
+Transform.
 
+![Demo del proyecto](Duodécimo%20Ejercicio/Twelfth%20Exercise.gif)
 
+---
 
 
 ## 📄 Autor
