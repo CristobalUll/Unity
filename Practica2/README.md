@@ -72,5 +72,5 @@ detectamos las teclas de movimiento, y aplicamos una velocidad hacia la direcci�
 que apunta el usuario (estos dos ejercicios están juntos ya que el primero no usaba
 Time.deltaTime y el segundo si).
 
-![Demo del proyecto](Décimo%20Ejercicio/Ninth%20Exercise.gif)
+![Demo del proyecto](Décimo%20Ejercicio/Tenth%20Exercise.gif)
 
