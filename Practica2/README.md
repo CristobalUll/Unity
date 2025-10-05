@@ -95,6 +95,13 @@ Transform.
 
 ---
 
+Decimotercer ejercicio: para este ejercicio, hemos usado el método Rotate del transfor
+para hacer que un cubo pueda girar en el eje horizontal. Además, añadimos un Translate
+para que se mueva en línea recta.
+
+![Demo del proyecto](Decimotercer%20Ejercicio/Thirteenth%20Exercise.gif)
+
+---
 
 ## 📄 Autor
 
