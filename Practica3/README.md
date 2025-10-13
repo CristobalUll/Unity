@@ -48,7 +48,7 @@ debido a que la hemos puesto como un objeto físico cinemático que controlamos 
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Tercer%20Ejercicio.gif)
+![Situación 3](./Primera%20Parte/Tercer%20Ejercicio.gif)
 
 ---
 
@@ -58,7 +58,7 @@ activada que mencionábamos anteriormente.
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Cuarto%20Ejercicio.gif)
+![Situación 4](./Primera%20Parte/Cuarto%20Ejercicio.gif)
 
 ---
 
@@ -68,7 +68,7 @@ velocidad independientemente de la masa que tengan.
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Quinto%20Ejercicio.gif)
+![Situación 5](./Primera%20Parte/Quinto%20Ejercicio.gif)
 
 ---
 
@@ -78,7 +78,7 @@ la masa de la esfera de nuevo.
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Sexto%20Ejercicio.gif)
+![Situación 6](./Primera%20Parte/Sexto%20Ejercicio.gif)
 
 ---
 
@@ -88,7 +88,7 @@ acabaría frenándose por la fricción puesta.
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Séptimo%20Ejercicio.gif)
+![Situación 7](./Primera%20Parte/Séptimo%20Ejercicio.gif)
 
 ---
 
@@ -98,7 +98,7 @@ acabaría frenándose por la fricción puesta.
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Octavo%20Ejercicio.gif)
+![Situación 8](./Primera%20Parte/Octavo%20Ejercicio.gif)
 
 ---
 
@@ -108,7 +108,7 @@ En este último apartado, pasa lo mismo que en el anterior menos que la esfera n
  
 
 **GIF de demostración:**  
-![Situación 2](./Primera%20Parte/Noveno%20Ejercicio.gif)
+![Situación 9](./Primera%20Parte/Noveno%20Ejercicio.gif)
 
 ---
 
@@ -122,7 +122,7 @@ cambien a un color random.
 
 
 **GIF de demostración:**  
-![Ejercicio 2](./Seguna%20Parte/1.1%20Ejercicio.gif)
+![Ejercicio 2](./Segunda%20Parte/1.1%20Ejercicio.gif)
 
 ---
 
@@ -133,7 +133,7 @@ a una varible "daño".
 
 
 **GIF de demostración:**  
-![Ejercicio 2](./Seguna%20Parte/1.3%20Ejercicio.gif)
+![Ejercicio 2](./Segunda%20Parte/1.3%20Ejercicio.gif)
 
 ---
 
@@ -145,7 +145,7 @@ colisona con algún objeto.
 
 
 **GIF de demostración:**  
-![Ejercicio 2](./Seguna%20Parte/1.4%20Ejercicio.gif)
+![Ejercicio 2](./Segunda%20Parte/1.4%20Ejercicio.gif)
 
 ---
 
@@ -157,7 +157,7 @@ el cubo, el cual se desliza mucho más que la esfera (ya que le pusimos la propi
 
 
 **GIF de demostración:**  
-![Ejercicio 2](./Seguna%20Parte/1.5%20Ejercicio.gif)
+![Ejercicio 2](./Segunda%20Parte/1.5%20Ejercicio.gif)
 
 ---
 
