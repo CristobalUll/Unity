@@ -102,9 +102,23 @@ acabaría frenándose por la fricción puesta.
 
 ---
 
+**Explicación: Novena situación**  
+En este último apartado, pasa lo mismo que en el anterior menos que la esfera no cae.
+
+ 
+
+**GIF de demostración:**  
+![Situación 2](./Primera%20Parte/Noveno%20Ejercicio.gif)
+
+---
+
 ## Parte 2 — Colisiones y triggers
 
-**Explicación: Ejercicio 1**  
+**Explicación: Ejercicio 1 y 2**  
+En estos dos ejercicios, hemos creado un Capsule como si fuese un Player, y le hemos asignado un Script el cual
+hace que se pueda mover por el plano (sin usar el Transform ya que es un RigidBody). Luego, uniendo con el segundo,
+añadimos par de objetos 3D (eferas y cubos) los cuales les añadimos un Script para que al detectar una colisión
+cambien a un color random.
 
 
 **GIF de demostración:**  
@@ -112,8 +126,43 @@ acabaría frenándose por la fricción puesta.
 
 ---
 
-## 🧩 Conclusión
-En esta práctica se comprendió cómo Unity maneja la física realista a través de **Rigidbody**, **Colliders**, **Triggers** y **Physic Materials**.  
+**Explicación: Ejercicio 3**  
+En este ejercicio, hemos hecho que la luz ambiente se oscurezca cuando el Player entra dentro de un cubo enorme,
+haciendo uso del Trigger del cubo. Además, hay una esfera que cada vez que que detecta una colisión, suma 5 puntos
+a una varible "daño".
+
+
+**GIF de demostración:**  
+![Ejercicio 2](./Seguna%20Parte/1.3%20Ejercicio.gif)
+
+---
+
+**Explicación: Ejercicio 4**  
+En este ejercicio, hemos creado varias capas distintas (distintas para enemigos, jugador y objetos), haciendo uso de la 
+matriz que se menciona en el enunciado, conseguimos las colisiones que nosotros queramos. Para mostrar esto mejor, se ha
+añadido a los objetos un Script que imprime por consola con qué objeto ha chocado el jugador cuando dicho jugador
+colisona con algún objeto.
+
+
+**GIF de demostración:**  
+![Ejercicio 2](./Seguna%20Parte/1.4%20Ejercicio.gif)
+
+---
+
+**Explicación: Ejercicio 5**  
+En este último ejercicio, hemos añadido diferentes objetos 3D, cada uno con una física diferente y con un Script
+que lanza a los objetos cuando detecta que el usuario a pulsado la X en el teclado. Además, en el gif siguiente, se 
+puede ver como una esfera tiene la física de rebotar, la otra esfera tiene una rugosidad mayor y por último 
+el cubo, el cual se desliza mucho más que la esfera (ya que le pusimos la propiedad de deslizamiento).
+
+
+**GIF de demostración:**  
+![Ejercicio 2](./Seguna%20Parte/1.5%20Ejercicio.gif)
+
+---
+
+## Conclusión
+En esta práctica se ha comprendido cómo Unity maneja la física realista a través de **Rigidbody**, **Colliders**, **Triggers** y **Physic Materials**.  
 Cada ejercicio muestra un aspecto clave del motor de física y su relación con las capas, fuerzas y colisiones.
 
 ---
