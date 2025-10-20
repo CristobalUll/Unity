@@ -16,34 +16,26 @@ Se utiliza un script de control que reacciona ante el impacto y envía mensajes 
 
 ---
 
-## 💬 Ejercicio 2 — Comunicación mediante mensajes
-Aquí se crean **scripts de mensajería** que permiten a distintos objetos (como cubo y cilindro) comunicarse entre sí sin necesidad de estar directamente conectados.  
-El sistema detecta colisiones y envía un mensaje global a través de un "mensajero" central.
+## Ejercicio 2 y 3 y 9 — Comunicación mediante mensajes y escudos con color
+En este ejercicio, cambiamos las esferas por Prefabs de personajes de videojuegos, y hacemos que cuando el cubo toque un tipo de enemigo, el otro
+tipo de enemigos, vaya hacia alguno de los escudos y al tocarlo cambia de color. Además, aqui figura el ejercicio 9 ya que desde un principio
+se hicieorn estos ejercicios con el Cubo siendo un objeto físico.
 
 **Demostración:**  
-![Ejercicio 2](media/ejercicio2.gif)
+![Ejercicio 2y3y9](Ejericio2/Ejercicio2y3.gif)
 
 ---
 
-## 🔴 Ejercicio 3 — Escudos con cambio de color
-Se incorporan **escudos en la escena** que cambian de color al ser tocados por los humanoides.  
-Se utilizan colisiones `OnTriggerEnter` y componentes `Renderer` para modificar dinámicamente el color de los escudos.
-
-**Demostración:**  
-![Ejercicio 3](media/ejercicio3.gif)
-
----
-
-## 🚶 Ejercicio 4 — Movimiento y orientación
-Se desarrolla el movimiento de los humanoides mediante `transform.Translate()` y su orientación hacia un objetivo determinado en la escena.  
+## Ejercicio 4 — Movimiento y orientación
+Se desarrolla el movimiento de los humanoides y su orientación hacia un objetivo determinado en la escena.  
 El script ajusta la rotación y el desplazamiento continuo para simular comportamiento autónomo.
 
 **Demostración:**  
-![Ejercicio 4](media/ejercicio4.gif)
+![Ejercicio 4](Ejercicio4/Ejercicio4.gif)
 
 ---
 
-## 🧮 Ejercicio 5 — Sistema de puntuación
+## Ejercicio 5 y 6 — Sistema de puntuación
 Se implementa la lógica de **recolección de escudos** con distintas puntuaciones:  
 - Escudo tipo 1 → +5 puntos  
 - Escudo tipo 2 → +10 puntos  
@@ -51,29 +43,20 @@ Se implementa la lógica de **recolección de escudos** con distintas puntuacion
 Los puntos se muestran en consola al recolectar cada objeto.
 
 **Demostración:**  
-![Ejercicio 5](media/ejercicio5.gif)
+![Ejercicio 5y6](Ejercicio/Ejercicio5.gif)
 
 ---
 
-## 🖥️ Ejercicio 6 — Interfaz de puntuación (UI)
-Se añade una **interfaz gráfica (Canvas)** con texto que muestra la puntuación actual del jugador.  
-Cada vez que se recoge un escudo, la UI se actualiza dinámicamente con el nuevo valor.
-
-**Demostración:**  
-![Ejercicio 6](media/ejercicio6.gif)
-
----
-
-## 🎁 Ejercicio 7 — Sistema de recompensas
+## Ejercicio 7 — Sistema de recompensas
 Se amplía la mecánica de puntuación para que **cada 100 puntos** el jugador obtenga una **recompensa visual**, mostrada en la UI durante unos segundos.  
 Esto simula logros o bonificaciones dentro del juego.
 
 **Demostración:**  
-![Ejercicio 7](media/ejercicio7.gif)
+![Ejercicio 7](Ejercicio/Ejercicio7.gif)
 
 ---
 
-## 🕹️ Ejercicio 8 — Escena final del prototipo
+## Ejercicio 8 — Escena final del prototipo
 Se genera una **escena completa y funcional**, combinando todas las mecánicas anteriores:
 - Movimiento del jugador  
 - Recolección de escudos  
@@ -81,15 +64,13 @@ Se genera una **escena completa y funcional**, combinando todas las mecánicas a
 - Recompensas visuales  
 - Interfaz integrada  
 
-El resultado es un **prototipo jugable**, con entorno 3D, interfaz limpia y mecánicas interactivas básicas.
-
 **Demostración:**  
-![Ejercicio 8](media/ejercicio8.gif)
+![Ejercicio 8](Ejercicio/Ejercicio8.gif)
 
 ---
 
 ## 🧑‍💻 Autor
-**[Tu nombre aquí]**  
+**[Cristóbal Jesús Sarmiento Rodríguez]**  
 Grado en Ingeniería Informática  
-Asignatura: *Computabilidad y Algoritmia*  
-Curso 2024/2025  
+Asignatura: *Interfaces Inteligentes*  
+Curso 2025/2026
