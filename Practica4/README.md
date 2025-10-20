@@ -22,7 +22,7 @@ tipo de enemigos, vaya hacia alguno de los escudos y al tocarlo cambia de color.
 se hicieorn estos ejercicios con el Cubo siendo un objeto físico.
 
 **Demostración:**  
-![Ejercicio 2y3y9](Ejericio2/Ejercicio2y3.gif)
+![Ejercicio 2y3y9](Ejercicio2/Ejercicio2y3.gif)
 
 ---
 
@@ -43,7 +43,7 @@ Se implementa la lógica de **recolección de escudos** con distintas puntuacion
 Los puntos se muestran en consola al recolectar cada objeto.
 
 **Demostración:**  
-![Ejercicio 5y6](Ejercicio/Ejercicio5.gif)
+![Ejercicio 5y6](Ejercicio5/Ejercicio5.gif)
 
 ---
 
@@ -52,7 +52,7 @@ Se amplía la mecánica de puntuación para que **cada 100 puntos** el jugador o
 Esto simula logros o bonificaciones dentro del juego.
 
 **Demostración:**  
-![Ejercicio 7](Ejercicio/Ejercicio7.gif)
+![Ejercicio 7](Ejercicio7/Ejercicio7.gif)
 
 ---
 
@@ -65,7 +65,7 @@ Se genera una **escena completa y funcional**, combinando todas las mecánicas a
 - Interfaz integrada  
 
 **Demostración:**  
-![Ejercicio 8](Ejercicio/Ejercicio8.gif)
+![Ejercicio 8](Ejercicio8/Ejercicio8.gif)
 
 ---
 
