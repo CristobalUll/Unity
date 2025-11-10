@@ -72,14 +72,17 @@ Cambia el color del cubo lejano cuando el jugador lo agarra.
 
 
 
-![Demostración del simulador](/Gif/Meta.gif)
+![Demostración del simulador](./Gif/Meta.gif)
 
 
 
 Autor
 
 Cristóbal Jesús Sarmiento Rodríguez
-Asignatura: Interfaces Inteligentes – Práctica XR
+
+Asignatura: Interfaces Inteligentes – Práctica XR+
+
 Universidad de La Laguna
+
 Curso 2025
 
