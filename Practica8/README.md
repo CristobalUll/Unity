@@ -19,7 +19,6 @@ Incluye:
 2. Crear un **objeto objetivo** con collider marcado como **IsTrigger**.
 3. Añadir un **AudioSource** al objetivo.
 4. Importar los sonidos proporcionados.
-5. 
 ---
 
 # 🎤 2. Grabar y reproducir audio del micrófono (Punto 2)
@@ -62,8 +61,3 @@ Agrega aquí tus vídeos una vez grabados:
 
 ---
 
-# ✔ Proyecto completado
-
-Este README resume toda la práctica, incluyendo configuración de escenas, scripts utilizados y evidencias necesarias para su presentación.
-
-Si necesitas que genere una versión en PDF, añade las capturas reales o los vídeos y lo exporto.
