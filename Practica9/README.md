@@ -1,4 +1,4 @@
-# 📱🎮 Práctica – Uso de Componentes del Móvil en Unity3D (Parte 2)
+# 📱🎮 Práctica – Uso de Componentes del Móvil en Unity3D
 ### Interfaces Inteligentes – Grado en Ingeniería Informática  
 **Curso 2025/2026**
 
@@ -57,8 +57,8 @@ El personaje **solo se mueve** si el jugador se encuentra dentro de una zona GPS
 
 | Script | Función |
 |--------|---------|
-| **SensorReaderUI.cs** | Detecta los sensores disponibles dinámicamente y actualiza la UI en tiempo real. |
-| **WarriorSimpleController.cs** | Controla orientación, movimiento por acelerómetro y validación de geovalla. |
+| **SensorReader.cs** | Detecta los sensores disponibles dinámicamente y actualiza la UI en tiempo real. |
+| **SensorController.cs** | Controla orientación, movimiento por acelerómetro y validación de geovalla. |
 
 ---
 
