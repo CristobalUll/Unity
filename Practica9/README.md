@@ -27,7 +27,7 @@ En esta escena:
 
 **Resultado:** una interfaz que permite observar en tiempo real cómo afectan los movimientos y la orientación del dispositivo a los sensores.
 
-[![Ver vídeo](https://drive.google.com/file/d/14_GW8O88bT502XJS0lkFKRERDLGHeHt-/view?usp=sharing)
+[![Ver vídeo](https://img.shields.io/badge/Ver%20Video-Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/14_GW8O88bT502XJS0lkFKRERDLGHeHt-/view?usp=sharing)
 
 ---
 
@@ -48,7 +48,7 @@ El personaje **solo se mueve** si el jugador se encuentra dentro de una zona GPS
 - Se usa `Input.location` para obtener latitud/longitud  
 - Se comprueba si la posición está dentro del rango configurado  
 
-[![Ver vídeo](https://drive.google.com/file/d/10P4tSQwhTQwhuBFb2HAMvmx2_JDVHVE_/view?usp=sharing)
+[![Ver vídeo](https://img.shields.io/badge/Ver%20Video-Drive-blue?style=for-the-badge)](https://drive.google.com/file/d/10P4tSQwhTQwhuBFb2HAMvmx2_JDVHVE_/view?usp=sharing)
 
 
 ---
