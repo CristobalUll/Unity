@@ -109,6 +109,6 @@ Configurar el WhisperManager para que use uno.
 
 ## 🎥 Video Demostración
 
-[![Ver video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1Y0geBb0qptPS-fTWlDFc6yWWGqbVQ2dz/view?usp=sharing)
+[![Ver video]](https://drive.google.com/file/d/1Y0geBb0qptPS-fTWlDFc6yWWGqbVQ2dz/view?usp=sharing)
 
 Haz clic en la imagen para ver el video completo en Google Drive.
